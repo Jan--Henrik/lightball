@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name stmbl)(type Legacy)(uri /home/niklas/kicad/stmbl-kicad-lib/stmbl.lib)(options "")(descr ""))
+  (lib (name BMP388)(type Legacy)(uri ${KIPRJMOD}/BMP388.lib)(options "")(descr ""))
+  (lib (name lightball-rescue)(type Legacy)(uri ${KIPRJMOD}/lightball-rescue.lib)(options "")(descr ""))
+)

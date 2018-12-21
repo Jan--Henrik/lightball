@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name BMP388)(type Legacy)(uri ${KIPRJMOD}/BMP388.mod)(options "")(descr ""))
+  (lib (name stmbl)(type KiCad)(uri /home/niklas/kicad/stmbl-kicad-lib/stmbl.pretty)(options "")(descr ""))
+)
